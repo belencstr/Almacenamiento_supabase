@@ -1,0 +1,12 @@
+/* ...existing code... */
+footer {
+    background-color: var(--primary-color);
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    color: var(--text-color);
+}
+/* ...existing code... */

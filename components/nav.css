@@ -1,0 +1,14 @@
+nav {
+    background-color: var(--secondary-color);
+    padding: 0.5rem;
+}
+
+nav a {
+    color: var(--text-color);
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+    color: var(--accent-color);
+}
